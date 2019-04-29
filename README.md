@@ -4,6 +4,12 @@ This project considers the historical stock prices of a company for past 5 years
 
 ## Project Description
 
+This project has two files:  
+  1. **lstm.py**:
+    This file consists of all the helper functions. It is mainly used for Data Preprocessing to prepare the data using Rolling Window       Method on Closing Price of a company's historical stock price.
+  2. **model.ipynb**:
+    This file consists of the main model and the flow of the whole project starting from calling data preprocessing modules from lstm.py     file, LSTM Model Architecture, Testing and Plotting the results.
+
 This project consists of several modules:
 
 - **Rolling Window**:  
