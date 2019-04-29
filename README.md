@@ -47,7 +47,7 @@ This project consists of several modules:
 
   ![Flow Chart](https://raw.githubusercontent.com/kritipawar/Stock-Market-Price-prediction-Trading-Bot-/master/flow.jpg)
   
-## Authors
-
+## Authors/Developers
+For a coffee over code contact: 
 Name: Kriti Pawar  
-Email: kritipawar03@gmail.com  
+Email: kritipawar03@gmail.com   
